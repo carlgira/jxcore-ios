@@ -8,7 +8,7 @@ JXCore ios sample.
 - It has http server (implemented in Javascript) that can be started and stoped, with two buttons. 
 - Shows the status of the sever in a TextView.
 - More details of how Jxcore engine starts can bee seen in the logs.
-- Defines some methods to comunication Java->Javascript and Javascript->Java.
+- Defines some methods to comunication ObjectiveC->Javascript and Javascript->ObjectiveC.
 
 #### Functions
 - Register function that can be called from Javascript
