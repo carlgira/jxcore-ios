@@ -17,9 +17,9 @@ JXCore ios sample.
          NSLog(@"Sever Started (Callback from JS!!)");
     } withName:@"serverStarted"];
 ```
-- Call a registered function from Javascript. Using the JXCoreModule just use the function "callJavaFunction".
+- Call a registered function from Javascript. Using the JXCoreModule just use the function "callNativeFunction".
 ```javascript
-     this.callJavaFunction("serverStarted");
+     this.callNativeFunction("serverStarted");
 ```
 - Register a Javascript function that can be called from ios. Adding registered functions to the method "registerJSFunction" into the jxcore_module.js
 ```javascript
