@@ -1,6 +1,6 @@
 # JXCore IOS
 
-JXCore ios sample with no cordova.
+JXCore ios sample.
 
 **JXCoreIos:** Framework with jxcore native libs and objective c sources to initialize Jxcore. 
 
