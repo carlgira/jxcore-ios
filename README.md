@@ -2,7 +2,7 @@
 
 JXCore ios sample with no cordova.
 
-**JXCoreIos:** Library with jxcore native libs and objective c sources to initialize Jxcore. 
+**JXCoreIos:** Framework with jxcore native libs and objective c sources to initialize Jxcore. 
 
 **JXCoreSample:** Simple ios app to test Jxcore fuctionality. 
 - It has http server (implemented in Javascript) that can be started and stoped, with two buttons. 
