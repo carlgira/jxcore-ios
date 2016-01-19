@@ -53,6 +53,7 @@ To test the project, install on your device the JXCoreSample.
     [_jxcore pluginInitialize];
 ```
 - Modify jxcore_module according your needs. That module must have two functions, the "init" and the "registerJSFunction".
+- Use the CDVJXcore to register all the javascript functions and as interface to comunicate with the ios project.
 - Put in www/jxcore folder all your jxcore (node js ) project.
 
 See everything in the example.
