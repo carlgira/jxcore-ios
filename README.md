@@ -14,7 +14,7 @@ JXCore ios sample with no cordova.
 - Register function that can be called from Javascript
 ```objc
     [JXcore addNativeBlock:^(NSArray *params, NSString *callbackId) {
-         NSLog(@"Sever Started (Callback from JS!!));
+         NSLog(@"Sever Started (Callback from JS!!)");
     } withName:@"serverStarted"];
 ```
 - Call a registered function from Javascript. Using the JXCoreModule just use the function "callJavaFunction".
